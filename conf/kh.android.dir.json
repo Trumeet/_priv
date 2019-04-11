@@ -24,6 +24,7 @@
     "announcement_title": "Dir 2.0 提前测试",
     "announcement_message": "感谢您参与 Dir 2.0 提前测试。本次测试是为了能让您提前体验部分功能，并反馈问题。这次测试版不是正式版，很多功能都没有完工，请及时跟踪进度。",
     "announcement_allow_hiding": "false",
+    "announcement_allow_hiding_2": false,
     "announcement_button_positive_text": "反馈问题",
     "announcement_button_positive_link": "mailto:android-apps@yuuta.moe", 
     "check_piracy": true
