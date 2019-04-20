@@ -1,0 +1,36 @@
+{
+"code": 0,
+"data": [
+{
+"channel": "Stable",
+"versionName": "1.62",
+"color": "#4CAF50",
+"versionCode": 77,
+"apkText": "主页",
+"apkUrl": "https://dir.yuuta.moe",
+"playStoreUrl": "https://play.google.com/store/apps/details?id=kh.android.dir",
+"changeLog": "可以使用 “撤销旧的替换” 撤销那些已经被下架且在您的设备上替换过的规则\n增加规则投票 （需要绑定 GitHub 账户）\n增加 OriginalWish 主题\n您可以根据 “体积”、“类别” 和 “应用程序” 为扫描结果进行分组（或排序）\n长按清理结果可以单独处理某一项\n增加检查更新功能，您可以升级至测试版\n体积、细节优化"
+},
+{
+"channel": "preview",
+"versionName": "2.0 p1",
+"color": "#FFC107",
+"versionCode": 763,
+"apkText": "主页",
+"apkUrl": "https://dir.yuuta.moe",
+"playStoreUrl": "https://play.google.com/apps/testing/kh.android.dir",
+"changeLog": "Dir 2.0 提前测试版\n这次测试版不是正式版，很多功能都没有完工，请谨慎使用！"
+},
+{
+"channel": "beta",
+"versionName": "2.0 p1",
+"color": "#FFC107",
+"versionCode": 763,
+"apkText": "Web",
+"apkUrl": "https://dir.yuuta.moe",
+"playStoreUrl": "https://play.google.com/apps/testing/kh.android.dir",
+"changeLog": "Dir 2.0 Early Beta"
+}
+],
+"toast": null
+}
