@@ -3,23 +3,23 @@
 "data": [
   {
     "channel": "Stable",
-    "versionName": "1.62",
+    "versionName": "2.0",
     "color": "#4CAF50",
-    "versionCode": 77,
-    "apkText": "主页",
+    "versionCode": 775,
+    "apkText": "Web",
     "apkUrl": "https://dir.yuuta.moe",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=kh.android.dir",
-    "changeLog": "可以使用 “撤销旧的替换” 撤销那些已经被下架且在您的设备上替换过的规则\n增加规则投票 （需要绑定 GitHub 账户）\n增加 OriginalWish 主题\n您可以根据 “体积”、“类别” 和 “应用程序” 为扫描结果进行分组（或排序）\n长按清理结果可以单独处理某一项\n增加检查更新功能，您可以升级至测试版\n体积、细节优化"
+    "changeLog": "久别重逢，让大家久等啦~\n\n这次 Dir 更新略有仓促，会有虫子没有被捉到，如果碰到请即使反馈w\n除此之外，还有很多功能没做完，欢迎前往 [Trello 看板](https://trello.com/b/W6h6rlbG/dir) 查看进展w\n\n以下是喜闻乐见的更新日志：\n\n# 新功能\n\n* 规则同步完全更新，新增规则源支持（将会在之后的版本中推出）\n* 规则国际化支持（有点问题貌似.....）\n* N 多功能更新（屈指可数.jpg）\n\n# 修复\n\n* 若干 Bug"
   },
   {
-    "channel": "RC",
-    "versionName": "2.0 RC",
+    "channel": "beta",
+    "versionName": "2.0",
     "color": "#FFC107",
-    "versionCode": 773,
+    "versionCode": 775,
     "apkText": "Web",
     "apkUrl": "https://dir.yuuta.moe",
     "playStoreUrl": "https://play.google.com/apps/testing/kh.android.dir",
-    "changeLog": "Dir 2.0 RC"
+    "changeLog": "Dir 2.0"
   }
 ],
 "toast": null
