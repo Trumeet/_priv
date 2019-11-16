@@ -6,9 +6,9 @@
 "ALIPAY_MODE": "MODE_UI",
 "ENABLE_ALIPAY_CHECK": "DISABLE",
 "DISABLE_PIRACY_CHECK": "DISABLE",
-"beta-version-code": 775,
+"beta-version-code": 793,
 "IGNORE_PIRACY_FOR_CHINESE_GOOGLE_PLAY": "YES",
-"MAIL": "android-apps@yuuta.moe",
+"MAIL": "support@appline.store",
 "env_disabled_value": "sign",
 "env_none_value": "config_should_check",
 "ANNO_ENABLE": "false",
@@ -28,7 +28,7 @@
 "announcement_allow_hiding": "false",
 "announcement_allow_hiding_2": false,
 "announcement_button_positive_text": "反馈问题",
-"announcement_button_positive_link": "mailto:android-apps@yuuta.moe",
+"announcement_button_positive_link": "mailto:support@appline.store",
 "check_piracy": true
 },
 "toast": null
