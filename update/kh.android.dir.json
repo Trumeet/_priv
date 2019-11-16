@@ -13,10 +13,10 @@
     "channel": "beta",
     "versionName": "2.0",
     "color": "#FFC107",
-    "versionCode": 775,
+    "versionCode": 793,
     "apkText": "Web",
-    "apkUrl": "https://dir.yuuta.moe",
+    "apkUrl": "https://dir.yuuta.moe/api/beta",
     "playStoreUrl": "https://play.google.com/apps/testing/kh.android.dir",
-    "changeLog": "Dir 2.0"
+    "changeLog": "多谢大家久等，本次带来了如下变动：\n\n* 内部结构更新 —— 为将来对存储重定向的支援做准备（你看不到这个变化的，不过它确实很大 😂）\n* 错误修复（我没法修所有错，所以修了找到的 Bug（XD\n* 其他细节（嗯，用文字说不清楚的其他细节。"
   }
 ]
