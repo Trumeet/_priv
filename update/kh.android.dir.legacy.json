@@ -15,11 +15,11 @@
     "channel": "beta",
     "versionName": "2.0",
     "color": "#FFC107",
-    "versionCode": 775,
+    "versionCode": 832,
     "apkText": "Web",
     "apkUrl": "https://dir.yuuta.moe",
     "playStoreUrl": "https://play.google.com/apps/testing/kh.android.dir",
-    "changeLog": "Dir 2.0"
+    "changeLog": "修复了多个问题"
   }
 ],
 "toast": null
