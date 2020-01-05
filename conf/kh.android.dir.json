@@ -21,11 +21,11 @@
     "env_enabled_value": "all_check",
     "announcement_enable": "true",
     "announcement_title_menu": "Dir 2.2 大升级",
-    "announcement_title": "Dir Beta 版无法扫描的 Bug",
+    "announcement_title": "新版发布",
     "announcement_message": "Dir 2.2 已发布，带来了诸多 Bug 修复，请尽快升级。",
     "announcement_allow_hiding": "false",
     "announcement_allow_hiding_2": false,
-    "announcement_button_positive_text": "反馈问题",
-    "announcement_button_positive_link": "mailto:support@appline.store", 
+    "announcement_button_positive_text": "立即升级",
+    "announcement_button_positive_link": "https://dir.appline.xyz/#/zh-hans/get-started", 
     "check_piracy": true
   }
