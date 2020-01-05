@@ -1,21 +1,21 @@
 [
   {
     "channel": "Stable",
-    "versionName": "2.0",
+    "versionName": "2.2",
     "color": "#4CAF50",
-    "versionCode": 775,
+    "versionCode": 844,
     "apkText": "Web",
-    "apkUrl": "https://dir.yuuta.moe",
+    "apkUrl": "https://dir.appline.xyz/#/zh-hans/get-started",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=kh.android.dir",
-    "changeLog": "久别重逢，让大家久等啦~\n\n这次 Dir 更新略有仓促，会有虫子没有被捉到，如果碰到请即使反馈w\n除此之外，还有很多功能没做完，欢迎前往 [Trello 看板](https://trello.com/b/W6h6rlbG/dir) 查看进展w\n\n以下是喜闻乐见的更新日志：\n\n# 新功能\n\n* 规则同步完全更新，新增规则源支持（将会在之后的版本中推出）\n* 规则国际化支持（有点问题貌似.....）\n* N 多功能更新（屈指可数.jpg）\n\n# 修复\n\n* 若干 Bug"
+    "changeLog": "修复了多个问题"
   },
   {
     "channel": "beta",
-    "versionName": "2.0 (832)",
+    "versionName": "2.2 (845)",
     "color": "#FFC107",
-    "versionCode": 832,
+    "versionCode": 845,
     "apkText": "Web",
-    "apkUrl": "https://dir.yuuta.moe/api/beta",
+    "apkUrl": "https://dir.appline.xyz/#/zh-hans/get-started?id=beta",
     "playStoreUrl": "https://play.google.com/apps/testing/kh.android.dir",
     "changeLog": "修复了多个问题"
   }
